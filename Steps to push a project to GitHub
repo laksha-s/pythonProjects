@@ -1,0 +1,7 @@
+Steps to push a project to GitHub
+    1) First create a repository in GitHub
+    2) git clone https://github.com/your_username/my_python_project.git
+    3) git init
+    4) git add "your fileName" (for ex: git add main.py)
+    5) git commit -m "Initial commit"
+    6) git push origin master
